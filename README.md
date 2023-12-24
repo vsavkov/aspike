@@ -1,2 +1,2 @@
-Repositories based on Aerospike binary protocol
+Projects based on Aerospike binary protocol
 
