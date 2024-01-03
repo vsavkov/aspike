@@ -1,6 +1,6 @@
 Projects based on Aerospike Binary Protocol
 
-Aerospike (https://aerospike.com/) is a distributed NoSQL database.
+``Aerospike`` (https://aerospike.com/) is a distributed NoSQL database.
 
 It offers a number of client libraries, https://aerospike.com/developer/client.
 
@@ -14,3 +14,6 @@ List of projects based on the Aerospike Binary Protocol:
 3. ``aspike-node`` - Aerospike Cluster Client in Erlang, https://github.com/vsavkov/aspike-node, using `shackle`, High-Performance Erlang Network Client Framework, https://github.com/lpgauth/shackle;
 4. ``aspike-perf`` - driver to run performance/load tests of `Aerocluster Client - Aerospike Cluster`, https://github.com/vsavkov/aspike-perf;
 5. ``aspike-server`` - Aerospike Server Emulator, https://github.com/vsavkov/aspike-server.
+
+TODO
+1. ``aspike-console`` - Web-based viewer/admin of Aerospike Cluster Configuration and Statistics.
